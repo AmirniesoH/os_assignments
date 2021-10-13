@@ -4,7 +4,6 @@ from termcolor import colored
 
 # Other Functions
 
-from os import system
 
 def print_MenuOne():                # Print menu number one
     system('clear')
